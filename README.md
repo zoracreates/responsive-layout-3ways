@@ -27,7 +27,7 @@ I also show an example of reordering columns with each layout.
 
 ### Home Page
 
-![Home Page Desktop, Tablet, and Mobile Mockup](readme-img/home.png)
+![Home Page Desktop, Tablet, and Mobile Mockup](readme-img/home1.png)
 
 ### About Page
 ![About Page Desktop, Tablet, and Mobile Mockup](readme-img/about.png)
